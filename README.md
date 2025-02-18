@@ -15,6 +15,9 @@ The **Northwind** dataset is an excellent resource for simulating small business
 
 In this project, we explored the Northwind Traders dataset using **MySQL** to execute various SQL queries that analyze the business's operations across multiple aspects. By querying data from different tables (such as `Customers`, `Orders`, `Products`, `Suppliers`, etc.), we were able to derive insights that could help business decision-making.
 
+### EER Diagram
+<img width="981" alt="eer diagram" src="https://github.com/user-attachments/assets/3771403a-13e1-4cc6-a88e-e2542744accd" />
+
 ### Key Insights Explored:
 - **Customers by Country or City**: Identifying customers from specific locations.
 - **Product Price Analysis**: Analyzing product prices and trends.
@@ -71,3 +74,4 @@ A chart of the product prices, sorted from highest to lowest, helps visualize wh
 
 3. Highest Priced Product
 Here’s a table showing the most expensive product in the inventory.
+
